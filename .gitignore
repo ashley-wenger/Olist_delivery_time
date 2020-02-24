@@ -1,0 +1,9 @@
+.RData
+Merged_dataset_w_LatLong.csv
+archives/
+
+#we already have the zip file, don't need to also store the zip file's contents again
+Final_cleaned102419.csv
+Merged_dataset_w_LatLong_rs_durationV4.csv
+
+.ipynb_checkpoints/*
